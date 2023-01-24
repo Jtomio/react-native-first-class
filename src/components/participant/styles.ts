@@ -14,7 +14,6 @@ export const styles = StyleSheet.create({
     flex: 1,
     color: '#fff',
     marginLeft: 16,
-
   },
   button: {
     width: 56,
@@ -23,6 +22,7 @@ export const styles = StyleSheet.create({
     backgroundColor: '#E23c44',
     justifyContent: 'center',
     alignItems: 'center',
+
 
   },
   buttonText: {
